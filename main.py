@@ -1,0 +1,1 @@
+print('this rule need ',2,'m')
